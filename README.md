@@ -4,6 +4,9 @@ Typically put onto `$HOME/.fonts`
 
 - charter
 
+- DroidSansFallback.ttf
+- DroidSansFallbackFull.ttf
+
 ## Mono
 - Fira fonts
     - FiraCode_OTF_32/
