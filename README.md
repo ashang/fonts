@@ -1,10 +1,17 @@
-# fonts
+# Selected fonts collection
+
+Typically put onto `$HOME/.fonts`
+
 - charter
+
+## Mono
 - Fira fonts
     - FiraCode_OTF_32/
     - FiraCode_WEB_32/
     - FiraMono_OTF_32/
     - FiraMono_WEB_32/
+
+## CJK
 - 昆仑细圆
 - WPS FZ fonts
     - fzcchk.ttf
@@ -20,3 +27,7 @@
     - fzxh1k.ttf
     - fzxkk.ttf
     - fzytk.ttf
+- fonts-noto-cjk
+    - NotoSansCJK-Regular.ttc
+## Emoji
+- NotoColorEmoji.ttf
