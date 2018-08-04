@@ -1,20 +1,17 @@
 Languages:
 
 1. English
-2. Deutsch
-3. Español
-4. Français
-5. Italiano
-6. 日本語
-7. Nederlands
-8. Português
-9. Русский
-10.简体中文
+1. Deutsch
+1. Español
+1. Français
+1. Italiano
+1. 日本語
+1. Nederlands
+1. Português
+1. Русский
+1. 简体中文
 
-
-===============
-1. English
-===============
+# English
 
 You can now install your favorite fonts on your Kindle and choose one of them to read your eBooks.
 
@@ -37,9 +34,7 @@ Amazon respects the intellectual property of others. You are responsible for ens
 For further help, please visit: http://amzn.to/2F2DhMK
 
 
-===============
-2. Deutsch
-===============
+# Deutsch
 
 Sie können nun Ihre bevorzugten Schriftarten auf Ihrem Kindle installieren und eine davon zum Lesen Ihrer eBooks auswählen.
 
@@ -62,9 +57,7 @@ Amazon respektiert das geistige Eigentum Anderer. Sie sind dafür verantwortlich
 Weitere Informationen erhalten Sie unter: https://amzn.to/2rOAim3
 
 
-===============
-3. Español
-===============
+# Español
 
 Ahora puedes instalar tus fuentes favoritas en el Kindle y seleccionar la que quieras para leer eBooks.
 
@@ -87,9 +80,7 @@ Amazon respeta la propiedad intelectual de terceros. Eres responsable de obtener
 Para más información, visita la siguiente página: https://amzn.to/2bo5NfG
 
 
-===============
-4. Français
-===============
+# Français
 
 Vous pouvez maintenant installer vos polices de caractères préférées et sélectionner l'une d'entre elles pour lire vos ebooks.
 
@@ -112,9 +103,7 @@ Amazon respecte la propriété intellectuelle d'autres parties. Vous avez l'enti
 Pour plus d'aide, veuillez vous rendre sur la page https://amzn.to/2GpZRiH
 
 
-===============
-5. Italiano
-===============
+# Italiano
 
 Ora puoi installare su Kindle i tuoi caratteri preferiti e sceglierne uno per leggere gli eBook.
 
@@ -137,9 +126,7 @@ Amazon rispetta la proprietà intellettuale altrui. Sei responsabile di aver ott
 Per maggiori informazioni, visita il sito https://amzn.to/2wMQUjO
 
 
-===============
-6. 日本語
-===============
+# 日本語
 
 Kindleに好きなフォントをインストールして、電子書籍で選択できるようになりました。
 
@@ -147,13 +134,13 @@ OpenType（OTF）またはTrueType（TTF）フォントのみインストール�
 
 Kindleへのフォントのインストール方法:
 
-1.フォントパッケージが圧縮ファイル（ZIPファイルなど）の場合、お好みのファイル抽出プログラムを使って展開します。
+1. フォントパッケージが圧縮ファイル（ZIPファイルなど）の場合、お好みのファイル抽出プログラムを使って展開します。
 
-2.フォントファイルをKindleの「fonts」フォルダーにコピーします。
+2. フォントファイルをKindleの「fonts」フォルダーにコピーします。
 
 3. Kindleをパソコンから取り外します。
 
-4.「表示設定」（Aa）メニューを開くと、Kindleの標準フォントに加えてカスタムフォントが表示されます。
+4. 「表示設定」（Aa）メニューを開くと、Kindleの標準フォントに加えてカスタムフォントが表示されます。
 
 「表示設定」（Aa）メニューでカスタムフォントを選択すると、Kindleではほとんどの本のコンテンツがそのフォントで表示されるようになります。本のコンテンツの表示にそのフォントが使えない場合、代わりにKindleのデフォルトのシステムフォントが使われます。これは、その本の文字をフォントがサポートしていない場合やフォントが壊れている場合に発生する可能性があります。
 
@@ -162,9 +149,7 @@ Amazonは、他者の知的財産を尊重しています。Kindleへのフォ�
 詳細については、https://amzn.to/1TR96fn をご覧ください。
 
 
-===============
-7. Nederlands
-===============
+# Nederlands
 
 Je kunt nu je favoriete lettertypen installeren op je Kindle en die selecteren voor je e-books.
 
@@ -187,9 +172,7 @@ Amazon respecteert de intellectuele eigendomsrechten van anderen. Jij moet zelf 
 Ga voor meer hulp naar: https://amzn.to/2Gq2h0t
 
 
-===============
-8. Português
-===============
+# Português
 
 Agora, é possível instalar suas fontes preferidas no Kindle e escolher usar uma delas para a leitura de seus eBooks.
 
@@ -212,9 +195,7 @@ A Amazon respeita a propriedade intelectual de outros. Você é responsável pel
 Para ajuda, acesse: https://amzn.to/2DEWPFQ
 
 
-===============
-9. Русский
-===============
+# Русский
 
 Вы можете установить любимые шрифты на своем Kindle и читать электронные книги с использованием любого из них.
 
@@ -237,9 +218,7 @@ Amazon с уважением относится к  чужим объектам 
 Дополнительные сведения доступны по адресу: http://amzn.to/2F2DhMK.
 
 
-===============
-10. 简体中文
-===============
+# 简体中文
 
 您现在可以将自己喜欢的字体安装到 Kindle 上，从而在阅读电子书时选用。
 
